@@ -7,42 +7,6 @@
     "website": "https://github.com/carmo-lab/tututweak-personal-repo",
     "apps": [
         {
-            "name": "MeloNX",
-            "bundleIdentifier": "com.tututweak.melonx",
-            "developerName": "tututweak",
-            "subtitle": "MeloNX",
-            "localizedDescription": "MeloNX - scheda generata automaticamente da tututweak.",
-            "version": "1.7.0",
-            "versionDate": "2026-06-08",
-            "downloadURL": "https://file.ipaomtk.com/ipa/MeloNX-ipaomtk.com.ipa",
-            "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/MeloNX.png",
-            "size": 50
-        },
-        {
-            "name": "Luminar Mobile Photo Editor",
-            "bundleIdentifier": "com.tututweak.luminarmobilephotoeditor",
-            "developerName": "tututweak",
-            "subtitle": "Luminar Mobile Photo Editor",
-            "localizedDescription": "Luminar Mobile Photo Editor - scheda generata automaticamente da tututweak.",
-            "version": "3.6.1",
-            "versionDate": "2026-06-08",
-            "downloadURL": "https://file.ipaomtk.com/Luminar%20Mobile/Luminar_Image_Editor%26Enhancer_IPAOMTK.com.ipa",
-            "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Luminar-Mobile-Photo-Editor.webp",
-            "size": 453
-        },
-        {
-            "name": "Radarbot Speed Cameras – GPS",
-            "bundleIdentifier": "com.tututweak.radarbotspeedcamerasgps",
-            "developerName": "tututweak",
-            "subtitle": "Radarbot Speed Cameras – GPS",
-            "localizedDescription": "Radarbot Speed Cameras – GPS - scheda generata automaticamente da tututweak.",
-            "version": "9.42",
-            "versionDate": "2026-06-08",
-            "downloadURL": "https://file.ipaomtk.com/Radarbot-Speed/Radarbot_Speed_Cameras_GPS_IPAOMTK.com.ipa",
-            "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Radarbot.jpg",
-            "size": 221
-        },
-        {
             "name": "CollaNote",
             "bundleIdentifier": "com.tututweak.collanote",
             "developerName": "tututweak",
@@ -52,7 +16,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/CollaNote/CollaNote_Notes_%26_PDF_Markup_IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/CollaNote.jpg",
-            "size": 125
+            "size": 125,
+            "directDownload": true,
+            "directDownloadSourceName": "CollaNote"
         },
         {
             "name": "Noteshelf",
@@ -64,7 +30,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Noteshelf/Noteshelf-3-Premium-IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/noteshelf-3-digital-notes-ipa-v6-7-1-unlocked-ios-appstore-icon.jpg",
-            "size": 200
+            "size": 200,
+            "directDownload": true,
+            "directDownloadSourceName": "Noteshelf 3 Digital Notes"
         },
         {
             "name": "Voloco: Vocal Recording Studio For",
@@ -76,7 +44,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/voloco-vocal-recording-studio/Voloco-Vocal-Recording-Studio-IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Voloco-Vocal-Recording-Studio-IPA-v9.14.2-For-iOS.jpg",
-            "size": 215
+            "size": 215,
+            "directDownload": true,
+            "directDownloadSourceName": "Voloco: Vocal Recording Studio For"
         },
         {
             "name": "Lake: Coloring Book for Adults",
@@ -88,7 +58,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Lake-Coloring/Lake_Coloring_Book_for_Adults_IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Lake-Coloring-Book-for-Adults.jpg",
-            "size": 159
+            "size": 159,
+            "directDownload": true,
+            "directDownloadSourceName": "Lake: Coloring Book for Adults"
         },
         {
             "name": "Video Lite For",
@@ -100,7 +72,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Video%20Lite/Video-Lite-IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Video-Lite.jpg",
-            "size": 27
+            "size": 27,
+            "directDownload": true,
+            "directDownloadSourceName": "Video Lite For"
         },
         {
             "name": "SnoreLab Record Your Snoring",
@@ -112,7 +86,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/SnoreLab%20Record/SnoreLab-Record-Your-Snoring-IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/2024-10-03-2.02.42-AM.jpg",
-            "size": 146
+            "size": 146,
+            "directDownload": true,
+            "directDownloadSourceName": "SnoreLab Record Your Snoring"
         },
         {
             "name": "ChatGPT",
@@ -124,7 +100,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/ipa/ChatGPT-IPAOMTK.COM.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/ChatGPT.jpg",
-            "size": 81
+            "size": 81,
+            "directDownload": true,
+            "directDownloadSourceName": "ChatGPT 1.0 For"
         },
         {
             "name": "Alight Motion",
@@ -136,7 +114,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Alight-Motion/Alight-Motion-IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Alight-Motion.jpg",
-            "size": 114
+            "size": 114,
+            "directDownload": true,
+            "directDownloadSourceName": "Alight Motion"
         },
         {
             "name": "Filza",
@@ -148,7 +128,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/filza-file-manager-ipa/FilzaJailed.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/filza-1.jpg",
-            "size": 14
+            "size": 14,
+            "directDownload": true,
+            "directDownloadSourceName": "Filza 15 – 26.1 No Jailbreak iPhone"
         },
         {
             "name": "Lightroom",
@@ -160,7 +142,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Lightroom/Lightroom_AI_Photo_Editor_IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Lightroom.jpg",
-            "size": 172
+            "size": 172,
+            "directDownload": true,
+            "directDownloadSourceName": "Lightroom"
         },
         {
             "name": "Snapchat",
@@ -172,7 +156,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Snapchat/Snapchat-Root-2.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/snapchat-ipa-sniperlite-plus-scfalcon-ios-appstore-icon.jpg",
-            "size": 196
+            "size": 196,
+            "directDownload": true,
+            "directDownloadSourceName": "Snapchat"
         },
         {
             "name": "Netflix For",
@@ -184,7 +170,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/netflix-ipa-v25-3-2-premium-all-unlocked-for-ios-appstore-icon.jpg",
-            "size": 34
+            "size": 34,
+            "directDownload": true,
+            "directDownloadSourceName": "Netflix For"
         },
         {
             "name": "CapCut PRO",
@@ -196,7 +184,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/capcut-ipa/CapCut.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/CapCut-PRO-ipa.png",
-            "size": 222
+            "size": 222,
+            "directDownload": true,
+            "directDownloadSourceName": "CapCut PRO"
         },
         {
             "name": "YouTube Premium",
@@ -208,7 +198,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/YouTube/YouTube-IPAOMTK.COM.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/2024-09-05-5.24.18-PM.jpg",
-            "size": 124
+            "size": 124,
+            "directDownload": true,
+            "directDownloadSourceName": "YouTube Premium"
         },
         {
             "name": "Spotify",
@@ -220,7 +212,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Spotify/Spotify-2-IPAOMTK.COM.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/spotify-IPA.jpg",
-            "size": 104
+            "size": 104,
+            "directDownload": true,
+            "directDownloadSourceName": "Spotify"
         },
         {
             "name": "TikTok",
@@ -232,7 +226,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/TikTok/TikTok_Videos_Shop_%26_LIVE_BHTikTok-IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/TIKTOK.jpg",
-            "size": 377
+            "size": 377,
+            "directDownload": true,
+            "directDownloadSourceName": "TikTok"
         },
         {
             "name": "File Converter (Premium Unlocked) IOS",
@@ -244,7 +240,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/file-converter-ipa/FileConverterPro.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/file-converter-1.png",
-            "size": 29
+            "size": 29,
+            "directDownload": true,
+            "directDownloadSourceName": "File Converter"
         },
         {
             "name": "Toca Boca World",
@@ -256,7 +254,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/toca-boca-world/Toca-Boca-World-IPAOMTK.COM.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Toca-Boca-World.jpg",
-            "size": 707
+            "size": 707,
+            "directDownload": true,
+            "directDownloadSourceName": "Toca Boca World"
         },
         {
             "name": "Facetune",
@@ -268,7 +268,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Facetune/Facetune_Photo_%26_Video_Editor_IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Facetune.jpg",
-            "size": 313
+            "size": 313,
+            "directDownload": true,
+            "directDownloadSourceName": "Facetune"
         },
         {
             "name": "Photoshop Express",
@@ -280,7 +282,9 @@
             "versionDate": "2026-06-08",
             "downloadURL": "https://file.ipaomtk.com/Photoshop/Photoshop_Express_Photo_Editor_IPAOMTK.com.ipa",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Photoshop-Express.jpg",
-            "size": 148
+            "size": 148,
+            "directDownload": true,
+            "directDownloadSourceName": "Photoshop Express"
         }
     ]
 }

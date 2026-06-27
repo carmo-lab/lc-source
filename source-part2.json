@@ -7,18 +7,82 @@
     "website": "https://github.com/carmo-lab/tututweak-personal-repo",
     "apps": [
         {
+            "name": "Speedtest by Ookla",
+            "bundleIdentifier": "com.tututweak.speedtestbyookla",
+            "developerName": "tututweak",
+            "subtitle": "Speedtest by Ookla",
+            "localizedDescription": "Speedtest by Ookla - scheda generata automaticamente da tututweak.",
+            "version": "7.0.4",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/speedtest-ipa/",
+            "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Speedtest-by-Ookla.png",
+            "size": 55,
+            "directDownload": false
+        },
+        {
+            "name": "Youtify – Music & Playlists",
+            "bundleIdentifier": "com.tututweak.youtifymusicplaylists",
+            "developerName": "tututweak",
+            "subtitle": "Youtify – Music & Playlists",
+            "localizedDescription": "Youtify – Music & Playlists - scheda generata automaticamente da tututweak.",
+            "version": "2.5.2",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/youtify-music-playlists/",
+            "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Youtify.webp",
+            "size": 22,
+            "directDownload": false
+        },
+        {
+            "name": "Posi0nKFD For",
+            "bundleIdentifier": "com.tututweak.posi0nkfdfor",
+            "developerName": "tututweak",
+            "subtitle": "Posi0nKFD For",
+            "localizedDescription": "Posi0nKFD For - scheda generata automaticamente da tututweak.",
+            "version": "1.3",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/posi0nkfd/",
+            "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/posi0nKFD-A16.png",
+            "size": 1,
+            "directDownload": false
+        },
+        {
+            "name": "Fuji X Weekly Film Recipes",
+            "bundleIdentifier": "com.tututweak.fujixweeklyfilmrecipes",
+            "developerName": "tututweak",
+            "subtitle": "Fuji X Weekly Film Recipes",
+            "localizedDescription": "Fuji X Weekly Film Recipes - scheda generata automaticamente da tututweak.",
+            "version": "1.14.1",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/fuji-x-weekly-film-recipes/",
+            "iconURL": "https://tututweak.com/wp-content/themes/tututweak/assets/img/tututweak-logo.jpg",
+            "size": 6,
+            "directDownload": false
+        },
+        {
+            "name": "Unzip zip file opener",
+            "bundleIdentifier": "com.tututweak.unzipzipfileopener",
+            "developerName": "tututweak",
+            "subtitle": "Unzip zip file opener",
+            "localizedDescription": "Unzip zip file opener - scheda generata automaticamente da tututweak.",
+            "version": "5.15",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/unzip-zip-file-opener/",
+            "iconURL": "https://tututweak.com/wp-content/themes/tututweak/assets/img/tututweak-logo.jpg",
+            "size": 43,
+            "directDownload": false
+        },
+        {
             "name": "BodyFast Intermittent Fasting",
             "bundleIdentifier": "com.tututweak.bodyfastintermittentfasting",
             "developerName": "tututweak",
             "subtitle": "BodyFast Intermittent Fasting",
             "localizedDescription": "BodyFast Intermittent Fasting - scheda generata automaticamente da tututweak.",
             "version": "4.2.7",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/BodyFast/BodyFast-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/bodyfast-intermittent-fasting/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/BodyFast-Intermittent-Fasting-thumbnail.png",
             "size": 38,
-            "directDownload": true,
-            "directDownloadSourceName": "BodyFast Intermittent Fasting"
+            "directDownload": false
         },
         {
             "name": "Picasso -Beta",
@@ -27,7 +91,7 @@
             "subtitle": "Picasso -Beta",
             "localizedDescription": "Picasso -Beta - scheda generata automaticamente da tututweak.",
             "version": "2-Beta 5",
-            "versionDate": "2026-06-26",
+            "versionDate": "2026-06-27",
             "downloadURL": "https://tututweak.com/picasso/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/picasso_icon.jpeg",
             "size": 3,
@@ -40,12 +104,11 @@
             "subtitle": "Plane Finder Flight Tracker",
             "localizedDescription": "Plane Finder Flight Tracker - scheda generata automaticamente da tututweak.",
             "version": "2026.2.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Plane%20Finder/Plane-Finder-Premium-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/plane-finder-flight-tracker/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Plane-Finder.jpg",
             "size": 108,
-            "directDownload": true,
-            "directDownloadSourceName": "Plane Finder Flight Tracker"
+            "directDownload": false
         },
         {
             "name": "OldRoll – Vintage Film Camera",
@@ -54,12 +117,11 @@
             "subtitle": "OldRoll – Vintage Film Camera",
             "localizedDescription": "OldRoll – Vintage Film Camera - scheda generata automaticamente da tututweak.",
             "version": "8.5.3",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/OldRoll%20IAP/OldRoll-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/oldroll-vintage-film-camera/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/oldroll-vintage-film-camera-ipa-v8-4-5-unlocked-ios-appstore-icon.jpg",
             "size": 154,
-            "directDownload": true,
-            "directDownloadSourceName": "OldRoll – Vintage Film Camera"
+            "directDownload": false
         },
         {
             "name": "Shift Work Calendar PunchClock",
@@ -68,12 +130,11 @@
             "subtitle": "Shift Work Calendar PunchClock",
             "localizedDescription": "Shift Work Calendar PunchClock - scheda generata automaticamente da tututweak.",
             "version": "2026.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/shift-work-calendar-punchclock-2/PunchClock-Shift-Work-Calendar-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/shift-work-calendar-punchclock/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Shift-Work-Calendar-PunchClock.jpg",
             "size": 17,
-            "directDownload": true,
-            "directDownloadSourceName": "Shift Work Calendar PunchClock"
+            "directDownload": false
         },
         {
             "name": "Ai Photo Enhancer – Fix photos",
@@ -82,12 +143,11 @@
             "subtitle": "Ai Photo Enhancer – Fix photos",
             "localizedDescription": "Ai Photo Enhancer – Fix photos - scheda generata automaticamente da tututweak.",
             "version": "1.0.151",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ai-photo-enhancer-fix-photos/PhotoEnhancer-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/ai-photo-enhancer-fix-photos/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/photo_2026-02-18_02-20-55.jpg",
             "size": 57,
-            "directDownload": true,
-            "directDownloadSourceName": "Ai Photo Enhancer – Fix photos"
+            "directDownload": false
         },
         {
             "name": "Slot & Brave: Roguelike RPG For",
@@ -96,12 +156,11 @@
             "subtitle": "Slot & Brave: Roguelike RPG For",
             "localizedDescription": "Slot & Brave: Roguelike RPG For - scheda generata automaticamente da tututweak.",
             "version": "1.1.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/slot-brave-roguelike-rpg/Slot-Brave-Roguelike-RPG-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/slot-brave-roguelike-rpg/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Slot-038-Brave-Roguelike-RPG-IPA-v1.0.2-For-iOS.jpg",
             "size": 312,
-            "directDownload": true,
-            "directDownloadSourceName": "Slot & Brave: Roguelike RPG For"
+            "directDownload": false
         },
         {
             "name": "Xeno Swarm: Alien Survivor For",
@@ -110,12 +169,11 @@
             "subtitle": "Xeno Swarm: Alien Survivor For",
             "localizedDescription": "Xeno Swarm: Alien Survivor For - scheda generata automaticamente da tututweak.",
             "version": "3.0.22",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/xeno-swarm-alien-survivor/Xeno-Swarm-Alien-Survivor-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/xeno-swarm-alien-survivor/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Xeno-Swarm-Alien-Survivor-IPA-v3.0.22-Unlocked-For-iOS-featured-image.jpg",
             "size": 664,
-            "directDownload": true,
-            "directDownloadSourceName": "Xeno Swarm: Alien Survivor For"
+            "directDownload": false
         },
         {
             "name": "Reelsapp reel & video editor",
@@ -124,7 +182,7 @@
             "subtitle": "Reelsapp reel & video editor",
             "localizedDescription": "Reelsapp reel & video editor - scheda generata automaticamente da tututweak.",
             "version": "7.8",
-            "versionDate": "2026-06-26",
+            "versionDate": "2026-06-27",
             "downloadURL": "https://tututweak.com/reelsapp/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Reelsapp-video-trends-thumbnail.png",
             "size": 47,
@@ -137,12 +195,11 @@
             "subtitle": "Apes TD For",
             "localizedDescription": "Apes TD For - scheda generata automaticamente da tututweak.",
             "version": "0.1.996",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/apes-td/Apes-TD-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/apes-td/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Apes-TD-IPA-v0.1.996-Unlocked-For-iOS-featured-image.jpg",
             "size": 536,
-            "directDownload": true,
-            "directDownloadSourceName": "Apes TD For"
+            "directDownload": false
         },
         {
             "name": "Endel Focus & Sleep Sounds",
@@ -151,12 +208,11 @@
             "subtitle": "Endel Focus & Sleep Sounds",
             "localizedDescription": "Endel Focus & Sleep Sounds - scheda generata automaticamente da tututweak.",
             "version": "4.8.3",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Endel%20Focus/Endel_Focus_%26_Sleep_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/endel-focus-sleep-sounds/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Endel-Focus-Sleep-Sounds.webp",
             "size": 186,
-            "directDownload": true,
-            "directDownloadSourceName": "Endel Focus & Sleep Sounds"
+            "directDownload": false
         },
         {
             "name": "Turbolearn AI Note Taker",
@@ -165,12 +221,11 @@
             "subtitle": "Turbolearn AI Note Taker",
             "localizedDescription": "Turbolearn AI Note Taker - scheda generata automaticamente da tututweak.",
             "version": "1.4.3",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/turbolearn-ai-note-taker/Turbo-AI-Notetaker-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/turbolearn-ai-note-taker/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Turbolearn-8211-AI-Note-Taker.jpg",
             "size": 36,
-            "directDownload": true,
-            "directDownloadSourceName": "Turbolearn AI Note Taker"
+            "directDownload": false
         },
         {
             "name": "VDIT – Video Maker & Editor",
@@ -178,13 +233,12 @@
             "developerName": "tututweak",
             "subtitle": "VDIT – Video Maker & Editor",
             "localizedDescription": "VDIT – Video Maker & Editor - scheda generata automaticamente da tututweak.",
-            "version": "4.1.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/vdit-video-maker-editor/VDIT-IPAOMTK.COM.ipa",
+            "version": "4.1.2",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/vdit-video-maker-editor/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/VDIT-8211-Video-Maker-038-Editor.jpg",
             "size": 187,
-            "directDownload": true,
-            "directDownloadSourceName": "VDIT – Video Maker & Editor"
+            "directDownload": false
         },
         {
             "name": "Truecaller",
@@ -193,12 +247,11 @@
             "subtitle": "Truecaller",
             "localizedDescription": "Truecaller - scheda generata automaticamente da tututweak.",
             "version": "26.19",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Truecaller/Truecaller_Premium_Caller_ID_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/truecaller-ipa-v26-18-unlocked-ios/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Truecaller-Number-038-Caller-ID.jpg",
             "size": 240,
-            "directDownload": true,
-            "directDownloadSourceName": "Truecaller"
+            "directDownload": false
         },
         {
             "name": "Dehancer Color grading",
@@ -207,12 +260,11 @@
             "subtitle": "Dehancer Color grading",
             "localizedDescription": "Dehancer Color grading - scheda generata automaticamente da tututweak.",
             "version": "6.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Dehancer/Dehancer_Film_Emulation_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/v4-653/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Dehancer-Color-grading.jpg",
             "size": 188,
-            "directDownload": true,
-            "directDownloadSourceName": "Dehancer Color grading"
+            "directDownload": false
         },
         {
             "name": "Snow AI Profile",
@@ -221,12 +273,11 @@
             "subtitle": "Snow AI Profile",
             "localizedDescription": "Snow AI Profile - scheda generata automaticamente da tututweak.",
             "version": "15.2.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Snow%20VIP/SNOW_AI_Profile_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/snow-ai-profile-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/SNOW.jpg",
             "size": 129,
-            "directDownload": true,
-            "directDownloadSourceName": "Snow AI Profile"
+            "directDownload": false
         },
         {
             "name": "InShot",
@@ -235,12 +286,11 @@
             "subtitle": "InShot",
             "localizedDescription": "InShot - scheda generata automaticamente da tututweak.",
             "version": "1.97.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/InShot/InShot-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/inshot-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/InShot.jpg",
             "size": 119,
-            "directDownload": true,
-            "directDownloadSourceName": "InShot"
+            "directDownload": false
         },
         {
             "name": "B612 AI Photo And Video Editor",
@@ -248,13 +298,12 @@
             "developerName": "tututweak",
             "subtitle": "B612 AI Photo And Video Editor",
             "localizedDescription": "B612 AI Photo And Video Editor - scheda generata automaticamente da tututweak.",
-            "version": "15.2.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/B612-AI-Photo-Video-Editor/B612-IPAOMTK.COM.ipa",
+            "version": "15.2.6",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/b612-ai-photo-and-video-editor/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/b612-ai-photo.webp",
             "size": 129,
-            "directDownload": true,
-            "directDownloadSourceName": "B612 AI Photo And Video Editor"
+            "directDownload": false
         },
         {
             "name": "Fitbod Gym Fitness Planner",
@@ -263,12 +312,11 @@
             "subtitle": "Fitbod Gym Fitness Planner",
             "localizedDescription": "Fitbod Gym Fitness Planner - scheda generata automaticamente da tututweak.",
             "version": "8.18.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Fitbod-Elite/Fitbod-Elite-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/fitbod-gym-fitness-planner/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Fitbod-Gym-Fitness-Planner.jpg",
             "size": 115,
-            "directDownload": true,
-            "directDownloadSourceName": "Fitbod Gym Fitness Planner"
+            "directDownload": false
         },
         {
             "name": "Shadowrocket",
@@ -277,12 +325,11 @@
             "subtitle": "Shadowrocket",
             "localizedDescription": "Shadowrocket - scheda generata automaticamente da tututweak.",
             "version": "2.2.88",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Shadowrocket/Shadowrocket-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/shadowrocket/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/download-1.png",
             "size": 17,
-            "directDownload": true,
-            "directDownloadSourceName": "Shadowrocket"
+            "directDownload": false
         },
         {
             "name": "BandLab Music Making Studio",
@@ -291,12 +338,11 @@
             "subtitle": "BandLab Music Making Studio",
             "localizedDescription": "BandLab Music Making Studio - scheda generata automaticamente da tututweak.",
             "version": "11.24.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/BandLab%20Music/BandLab-Boost-Membership-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/bandlab-music-making-studio/",
             "iconURL": "https://tututweak.com/wp-content/themes/tututweak/assets/img/tututweak-logo.jpg",
             "size": 31,
-            "directDownload": true,
-            "directDownloadSourceName": "BandLab Music Making Studio"
+            "directDownload": false
         },
         {
             "name": "Beat Maker Pro: Music drum Pad",
@@ -305,12 +351,11 @@
             "subtitle": "Beat Maker Pro: Music drum Pad",
             "localizedDescription": "Beat Maker Pro: Music drum Pad - scheda generata automaticamente da tututweak.",
             "version": "4.17.01",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Beat%20Maker%20Pro/Beat_Maker_Pro_Music_drum_Pad_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/beat-maker-pro-music-drum-pad-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/512x512bb-59.jpg",
             "size": 118,
-            "directDownload": true,
-            "directDownloadSourceName": "Beat Maker Pro: Music drum Pad"
+            "directDownload": false
         },
         {
             "name": "EPIK AI Photo And Video Editor",
@@ -319,12 +364,11 @@
             "subtitle": "EPIK AI Photo And Video Editor",
             "localizedDescription": "EPIK AI Photo And Video Editor - scheda generata automaticamente da tututweak.",
             "version": "7.1.42",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/EPIK-AI-Photo/EPIK_AI_Photo_%26_Video_Editor_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/epik-ai-photo-and-video-editor-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/EPIK-AI-Photo-And-Video-Editor.webp",
             "size": 212,
-            "directDownload": true,
-            "directDownloadSourceName": "EPIK AI Photo And Video Editor"
+            "directDownload": false
         },
         {
             "name": "4FunChat For",
@@ -333,12 +377,11 @@
             "subtitle": "4FunChat For",
             "localizedDescription": "4FunChat For - scheda generata automaticamente da tututweak.",
             "version": "1.0.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/4funchat/4FunChat-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/4funchat/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/FunChat.jpg",
             "size": 18,
-            "directDownload": true,
-            "directDownloadSourceName": "4FunChat For"
+            "directDownload": false
         },
         {
             "name": "Soulver",
@@ -347,12 +390,11 @@
             "subtitle": "Soulver",
             "localizedDescription": "Soulver - scheda generata automaticamente da tututweak.",
             "version": "3.16.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/soulver-3/Soulver-3-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/soulver-3/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Soulver-3.jpg",
             "size": 26,
-            "directDownload": true,
-            "directDownloadSourceName": "Soulver 3"
+            "directDownload": false
         },
         {
             "name": "Diamond Jewels GFAL Puzzle For",
@@ -361,12 +403,11 @@
             "subtitle": "Diamond Jewels GFAL Puzzle For",
             "localizedDescription": "Diamond Jewels GFAL Puzzle For - scheda generata automaticamente da tututweak.",
             "version": "3.1.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/diamond-jewels-gfal-puzzle/Diamond-Jewels-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/diamond-jewels-gfal-puzzle/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Diamond-Jewels-GFAL-Puzzle-IPA-v2.13.1-For-iOS.jpg",
             "size": 275,
-            "directDownload": true,
-            "directDownloadSourceName": "Diamond Jewels GFAL Puzzle For"
+            "directDownload": false
         },
         {
             "name": "Oxford Dictionary",
@@ -375,12 +416,11 @@
             "subtitle": "Oxford Dictionary",
             "localizedDescription": "Oxford Dictionary - scheda generata automaticamente da tututweak.",
             "version": "16.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/oxford-dictionary/Oxford_Dictionary_%26_Thesaurus_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/oxford-dictionary/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Oxford-Dictionary.jpg",
             "size": 41,
-            "directDownload": true,
-            "directDownloadSourceName": "Oxford Dictionary"
+            "directDownload": false
         },
         {
             "name": "EnhanceFox For",
@@ -389,12 +429,11 @@
             "subtitle": "EnhanceFox For",
             "localizedDescription": "EnhanceFox For - scheda generata automaticamente da tututweak.",
             "version": "v7.5.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/EnhanceFox.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/enhancefox-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/download-photo-enhancer-enhancefox-ai-1.png",
             "size": 129,
-            "directDownload": true,
-            "directDownloadSourceName": "EnhanceFox For"
+            "directDownload": false
         },
         {
             "name": "Coconote AI Note Taker",
@@ -403,12 +442,11 @@
             "subtitle": "Coconote AI Note Taker",
             "localizedDescription": "Coconote AI Note Taker - scheda generata automaticamente da tututweak.",
             "version": "2.46",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Coconote%20AI/Coconote-AI-Note-Taker-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/coconote-ai-note-taker/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/coconote-ai-note-taker-ipa-v2-41-unlocked-pro-ios-appstore-icon.jpg",
             "size": 41,
-            "directDownload": true,
-            "directDownloadSourceName": "Coconote AI Note Taker"
+            "directDownload": false
         },
         {
             "name": "Poe For",
@@ -417,12 +455,11 @@
             "subtitle": "Poe For",
             "localizedDescription": "Poe For - scheda generata automaticamente da tututweak.",
             "version": "1.2.11",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/poe/Poe-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/poe/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Poe-logo.jpg",
             "size": 1,
-            "directDownload": true,
-            "directDownloadSourceName": "Poe For"
+            "directDownload": false
         },
         {
             "name": "calimoto Motorcycle Navigation For",
@@ -431,12 +468,11 @@
             "subtitle": "calimoto Motorcycle Navigation For",
             "localizedDescription": "calimoto Motorcycle Navigation For - scheda generata automaticamente da tututweak.",
             "version": "7.20.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/calimoto-motorcycle-navigation/calimoto_Motorcycle_Navigation_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/calimoto-motorcycle-navigation/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/calimoto-Motorcycle-Navigation-IPA-v7.20.0-Unlocked-For-iOS-featured-image.jpg",
             "size": 198,
-            "directDownload": true,
-            "directDownloadSourceName": "calimoto Motorcycle Navigation For"
+            "directDownload": false
         },
         {
             "name": "Infuse Video Player",
@@ -445,12 +481,11 @@
             "subtitle": "Infuse Video Player",
             "localizedDescription": "Infuse Video Player - scheda generata automaticamente da tututweak.",
             "version": "8.4.7",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Infuse/Infuse-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/infuse-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Infuse-Pro-1.png",
             "size": 70,
-            "directDownload": true,
-            "directDownloadSourceName": "Infuse Video Player"
+            "directDownload": false
         },
         {
             "name": "Car Scanner ELM OBD2",
@@ -459,12 +494,11 @@
             "subtitle": "Car Scanner ELM OBD2",
             "localizedDescription": "Car Scanner ELM OBD2 - scheda generata automaticamente da tututweak.",
             "version": "2.1.25",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/car-scanner-elm-obd2-ipa/Car-Scanner-ELM-OBD2-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/car-scanner-elm-obd2-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Car-Scanner.jpg",
             "size": 66,
-            "directDownload": true,
-            "directDownloadSourceName": "Car Scanner ELM OBD2"
+            "directDownload": false
         },
         {
             "name": "Motobit motorcycle navigation",
@@ -473,12 +507,11 @@
             "subtitle": "Motobit motorcycle navigation",
             "localizedDescription": "Motobit motorcycle navigation - scheda generata automaticamente da tututweak.",
             "version": "1.0.66",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/motobit-motorcycle-navigation/Motobit-Premium-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/motobit-motorcycle-navigation/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Motobit-motorcycle-navigation.jpg",
             "size": 42,
-            "directDownload": true,
-            "directDownloadSourceName": "Motobit motorcycle navigation"
+            "directDownload": false
         },
         {
             "name": "Video Star",
@@ -487,12 +520,11 @@
             "subtitle": "Video Star",
             "localizedDescription": "Video Star - scheda generata automaticamente da tututweak.",
             "version": "15.1.4",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Video-Star/Videostar-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/video-star-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Video-Star-ipa.jpg",
             "size": 523,
-            "directDownload": true,
-            "directDownloadSourceName": "Video Star"
+            "directDownload": false
         },
         {
             "name": "WeChat",
@@ -501,12 +533,11 @@
             "subtitle": "WeChat",
             "localizedDescription": "WeChat - scheda generata automaticamente da tututweak.",
             "version": "8.0.33",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/WeChat-8.0.33-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/wechat/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/WeChat.jpg",
             "size": 706,
-            "directDownload": true,
-            "directDownloadSourceName": "WeChat"
+            "directDownload": false
         },
         {
             "name": "RNI Films Photo RAW Editor",
@@ -515,12 +546,11 @@
             "subtitle": "RNI Films Photo RAW Editor",
             "localizedDescription": "RNI Films Photo RAW Editor - scheda generata automaticamente da tututweak.",
             "version": "v4.2.9",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/rni-films-photo-raw-editor.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/rni-films-photo-raw-editor-4-2-9/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/246x0w-3-1.jpg",
             "size": 56,
-            "directDownload": true,
-            "directDownloadSourceName": "RNI Films Photo RAW Editor"
+            "directDownload": false
         },
         {
             "name": "Gaming Wallpapers For",
@@ -529,12 +559,11 @@
             "subtitle": "Gaming Wallpapers For",
             "localizedDescription": "Gaming Wallpapers For - scheda generata automaticamente da tututweak.",
             "version": "1.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/gaming-wallpapers/Gaming-Wallpapers-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/gaming-wallpapers/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Gaming_Wallpapers.jpg",
             "size": 58,
-            "directDownload": true,
-            "directDownloadSourceName": "Gaming Wallpapers For"
+            "directDownload": false
         },
         {
             "name": "Weather⁺ For",
@@ -543,12 +572,11 @@
             "subtitle": "Weather⁺ For",
             "localizedDescription": "Weather⁺ For - scheda generata automaticamente da tututweak.",
             "version": "4.18.19",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/weather%E2%81%BA/Weather-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/weather%e2%81%ba/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Weather⁺-IPA-v4.18.17-For-iOS.jpg",
             "size": 172,
-            "directDownload": true,
-            "directDownloadSourceName": "Weather⁺ For"
+            "directDownload": false
         },
         {
             "name": "Magic Eraser Background Editor",
@@ -557,12 +585,11 @@
             "subtitle": "Magic Eraser Background Editor",
             "localizedDescription": "Magic Eraser Background Editor - scheda generata automaticamente da tututweak.",
             "version": "3.15.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/magic-eraser-background-editor/Magic-Eraser-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/magic-eraser-background-editor/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Magic-Eraser-Background-Editor.jpg",
             "size": 233,
-            "directDownload": true,
-            "directDownloadSourceName": "Magic Eraser Background Editor"
+            "directDownload": false
         },
         {
             "name": "Lingokids – Play and Learn",
@@ -571,12 +598,11 @@
             "subtitle": "Lingokids – Play and Learn",
             "localizedDescription": "Lingokids – Play and Learn - scheda generata automaticamente da tututweak.",
             "version": "26.24.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Lingokids/Lingokids-Unlimited-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/lingokids-play-and-learn/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Lingokids.jpg",
             "size": 87,
-            "directDownload": true,
-            "directDownloadSourceName": "Lingokids – Play and Learn"
+            "directDownload": false
         },
         {
             "name": "Morpholio Trace Sketch CAD",
@@ -585,12 +611,11 @@
             "subtitle": "Morpholio Trace Sketch CAD",
             "localizedDescription": "Morpholio Trace Sketch CAD - scheda generata automaticamente da tututweak.",
             "version": "6.87",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/morpholio-trace-sketch-cad/Morpholio-Trace-IPAOMTK.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/morpholio-trace-sketch-cad/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/morpholio-trace-sketch-cad-ipa-v6-83-unlocked-premium-ios-appstore-icon.jpg",
             "size": 361,
-            "directDownload": true,
-            "directDownloadSourceName": "Morpholio Trace Sketch CAD"
+            "directDownload": false
         },
         {
             "name": "X App Twitter install For",
@@ -599,12 +624,11 @@
             "subtitle": "X App Twitter install For",
             "localizedDescription": "X App Twitter install For - scheda generata automaticamente da tututweak.",
             "version": "11.72 TWIGalaxy",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/X-App/TWIGalaxy-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/x-app/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/twitter.jpg",
             "size": 147,
-            "directDownload": true,
-            "directDownloadSourceName": "X App Twitter install For"
+            "directDownload": false
         },
         {
             "name": "FlipaClip+ Create",
@@ -613,12 +637,11 @@
             "subtitle": "FlipaClip+ Create",
             "localizedDescription": "FlipaClip+ Create - scheda generata automaticamente da tututweak.",
             "version": "4.1.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/FlipaClip_Create_2D_Animation-v4.1.1-ipaomtk.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/flipaclip-create-2d-animatin-ipa-unlocked-ios-cop/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/FlipaClip-Create-2D-Animation.jpg",
             "size": 145,
-            "directDownload": true,
-            "directDownloadSourceName": "FlipaClip+ Create 2D Animation"
+            "directDownload": false
         },
         {
             "name": "Intro",
@@ -627,12 +650,11 @@
             "subtitle": "Intro",
             "localizedDescription": "Intro - scheda generata automaticamente da tututweak.",
             "version": "v5.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/Intro-3D-Movie-Trailer-Maker.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/intro-3d-movie-trailer-maker-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Intro-3D-Movie-Trailer-Maker.jpg",
             "size": 142,
-            "directDownload": true,
-            "directDownloadSourceName": "Intro 3D Movie Trailer Maker"
+            "directDownload": false
         },
         {
             "name": "Unfold",
@@ -641,12 +663,11 @@
             "subtitle": "Unfold",
             "localizedDescription": "Unfold - scheda generata automaticamente da tututweak.",
             "version": "8.160.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/unfold/Unfold_Reels_IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/unfold/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Unfold.jpg",
             "size": 167,
-            "directDownload": true,
-            "directDownloadSourceName": "Unfold"
+            "directDownload": false
         },
         {
             "name": "Zinnia: Planner & Journal",
@@ -655,12 +676,11 @@
             "subtitle": "Zinnia: Planner & Journal",
             "localizedDescription": "Zinnia: Planner & Journal - scheda generata automaticamente da tututweak.",
             "version": "1.47",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Zinnia/Zinnia-Planner-%26-Journal-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/zinnia-planner-journal/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Zinnia-Planner-038-Journal.jpg",
             "size": 89,
-            "directDownload": true,
-            "directDownloadSourceName": "Zinnia: Planner & Journal"
+            "directDownload": false
         },
         {
             "name": "Weather on the Way",
@@ -669,12 +689,11 @@
             "subtitle": "Weather on the Way",
             "localizedDescription": "Weather on the Way - scheda generata automaticamente da tututweak.",
             "version": "2.5.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Weather%20on%20the/OnTheWay-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/weather-on-the-way-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/weather-on-the-way-ico.png",
             "size": 40,
-            "directDownload": true,
-            "directDownloadSourceName": "Weather on the Way"
+            "directDownload": false
         },
         {
             "name": "Sleep Sounds – SleepMaster",
@@ -683,12 +702,11 @@
             "subtitle": "Sleep Sounds – SleepMaster",
             "localizedDescription": "Sleep Sounds – SleepMaster - scheda generata automaticamente da tututweak.",
             "version": "2.7.7",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/sleep-sounds-sleepmaster/Sleep-Sounds-SleepMaster-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/sleep-sounds-sleepmaster/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Sleep-Sounds-8211-SleepMaster.jpg",
             "size": 45,
-            "directDownload": true,
-            "directDownloadSourceName": "Sleep Sounds – SleepMaster"
+            "directDownload": false
         },
         {
             "name": "I Am Sober",
@@ -697,12 +715,11 @@
             "subtitle": "I Am Sober",
             "localizedDescription": "I Am Sober - scheda generata automaticamente da tututweak.",
             "version": "8.6.8",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/I%20Am%20Sober/I-Am-Sober-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/i-am-sober/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/I-Am-Sober.jpg",
             "size": 38,
-            "directDownload": true,
-            "directDownloadSourceName": "I Am Sober"
+            "directDownload": false
         },
         {
             "name": "Yoga+ by Mary",
@@ -711,12 +728,11 @@
             "subtitle": "Yoga+ by Mary",
             "localizedDescription": "Yoga+ by Mary - scheda generata automaticamente da tututweak.",
             "version": "6.9.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Yoga/Yoga-by-Mary-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/yoga-by-mary/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Yoga-by-Mary.jpg",
             "size": 150,
-            "directDownload": true,
-            "directDownloadSourceName": "Yoga+ by Mary"
+            "directDownload": false
         },
         {
             "name": "Brass – Icon Themes & Widgets",
@@ -725,12 +741,11 @@
             "subtitle": "Brass – Icon Themes & Widgets",
             "localizedDescription": "Brass – Icon Themes & Widgets - scheda generata automaticamente da tututweak.",
             "version": "3.1.80",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/brass-icon-themes-widgets/Brass-Icon-Themes-%26-Widgets-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/brass-icon-themes-widgets/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Brass-8211-Icon-Themes-038-Widgets.jpg",
             "size": 49,
-            "directDownload": true,
-            "directDownloadSourceName": "Brass – Icon Themes & Widgets"
+            "directDownload": false
         },
         {
             "name": "Clear Status Status Optimizer",
@@ -739,12 +754,11 @@
             "subtitle": "Clear Status Status Optimizer",
             "localizedDescription": "Clear Status Status Optimizer - scheda generata automaticamente da tututweak.",
             "version": "6.0.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Clear%20Status/Clear-Status-Pro-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/clear-status-status-optimizer/",
             "iconURL": "https://tututweak.com/wp-content/themes/tututweak/assets/img/tututweak-logo.jpg",
             "size": 29,
-            "directDownload": true,
-            "directDownloadSourceName": "Clear Status Status Optimizer"
+            "directDownload": false
         },
         {
             "name": "365scores",
@@ -753,12 +767,11 @@
             "subtitle": "365scores",
             "localizedDescription": "365scores - scheda generata automaticamente da tututweak.",
             "version": "6.5.7",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/365scores-ipa/365Scores-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/365scores-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/365Scores-1.jpg",
             "size": 91,
-            "directDownload": true,
-            "directDownloadSourceName": "365scores"
+            "directDownload": false
         },
         {
             "name": "Imprint: Learn Visually",
@@ -767,12 +780,11 @@
             "subtitle": "Imprint: Learn Visually",
             "localizedDescription": "Imprint: Learn Visually - scheda generata automaticamente da tututweak.",
             "version": "5.2.6",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Imprint/Imprint-Learn-Visually-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/imprint-learn-visually/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/unnamed-5.png",
             "size": 88,
-            "directDownload": true,
-            "directDownloadSourceName": "Imprint: Learn Visually"
+            "directDownload": false
         },
         {
             "name": "Fishbrain – Fishing App",
@@ -781,12 +793,11 @@
             "subtitle": "Fishbrain – Fishing App",
             "localizedDescription": "Fishbrain – Fishing App - scheda generata automaticamente da tututweak.",
             "version": "9.56.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Fishbrain/Fishbrain-Fishing-App-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/fishbrain-fishing-app/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Fishbrain-Fishing-App.png",
             "size": 98,
-            "directDownload": true,
-            "directDownloadSourceName": "Fishbrain – Fishing App"
+            "directDownload": false
         },
         {
             "name": "Terabox For",
@@ -795,12 +806,11 @@
             "subtitle": "Terabox For",
             "localizedDescription": "Terabox For - scheda generata automaticamente da tututweak.",
             "version": "4.17.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Terabox/TeraBox-1-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/terabox-cloud-storage-space-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Terabox.png",
             "size": 228,
-            "directDownload": true,
-            "directDownloadSourceName": "Terabox For"
+            "directDownload": false
         },
         {
             "name": "AI Photo Generator Collart AI",
@@ -809,12 +819,11 @@
             "subtitle": "AI Photo Generator Collart AI",
             "localizedDescription": "AI Photo Generator Collart AI - scheda generata automaticamente da tututweak.",
             "version": "5.7.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/AI-Photo-Generator-Collart-AI.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/ai-photo-generator-collart-ai-5-7-1/",
             "iconURL": "https://tututweak.com/wp-content/themes/tututweak/assets/img/tututweak-logo.jpg",
             "size": 380,
-            "directDownload": true,
-            "directDownloadSourceName": "AI Photo Generator Collart AI"
+            "directDownload": false
         },
         {
             "name": "AdGuard Home Remote",
@@ -823,12 +832,11 @@
             "subtitle": "AdGuard Home Remote",
             "localizedDescription": "AdGuard Home Remote - scheda generata automaticamente da tututweak.",
             "version": "9.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/adguard-home-remote-ipa/AdGuard-Home-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/adguard-home-remote-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/AdGuard-Home-Remote.jpg",
             "size": 46,
-            "directDownload": true,
-            "directDownloadSourceName": "AdGuard Home Remote"
+            "directDownload": false
         },
         {
             "name": "AdGuard Pro",
@@ -837,12 +845,11 @@
             "subtitle": "AdGuard Pro",
             "localizedDescription": "AdGuard Pro - scheda generata automaticamente da tututweak.",
             "version": "v4.5.16",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/AdGuard/AdGuard_Adblock_Privacy_DNS_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/adguard-pro/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/adguard-pro-ipa-v4-5-16-premium-unlocked-ios-appstore-icon.jpg",
             "size": 38,
-            "directDownload": true,
-            "directDownloadSourceName": "AdGuard Pro"
+            "directDownload": false
         },
         {
             "name": "AdGuard: Adblock, Privacy, DNS For",
@@ -851,12 +858,11 @@
             "subtitle": "AdGuard: Adblock, Privacy, DNS For",
             "localizedDescription": "AdGuard: Adblock, Privacy, DNS For - scheda generata automaticamente da tututweak.",
             "version": "4.5.20",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/adguard-adblock-privacy-dns/AdGuard-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/adguard-adblock-privacy-dns/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/AdGuard-Adblock-Privacy-DNS-IPA-v4.5.18-For-iOS.jpg",
             "size": 77,
-            "directDownload": true,
-            "directDownloadSourceName": "AdGuard: Adblock, Privacy, DNS For"
+            "directDownload": false
         },
         {
             "name": "Plato",
@@ -865,12 +871,11 @@
             "subtitle": "Plato",
             "localizedDescription": "Plato - scheda generata automaticamente da tututweak.",
             "version": "6.9.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/plato-games-amp-group-chats/Plato-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/plato-games-amp-group-chats/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/plato-games-amp-group-chats.png",
             "size": 224,
-            "directDownload": true,
-            "directDownloadSourceName": "Plato"
+            "directDownload": false
         },
         {
             "name": "Chainsaw Juice King Idle Shop For",
@@ -879,12 +884,11 @@
             "subtitle": "Chainsaw Juice King Idle Shop For",
             "localizedDescription": "Chainsaw Juice King Idle Shop For - scheda generata automaticamente da tututweak.",
             "version": "2.1.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/chainsaw-juice-king-idle-shop/chainsaw-juice-king-idle-shop-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/chainsaw-juice-king-idle-shop/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Chainsaw-Juice-King-Idle-Shop-IPA-v2.0.1-For-iOS.jpg",
             "size": 347,
-            "directDownload": true,
-            "directDownloadSourceName": "Chainsaw Juice King Idle Shop For"
+            "directDownload": false
         },
         {
             "name": "Mute Video – Edit Clip Sound For",
@@ -893,12 +897,11 @@
             "subtitle": "Mute Video – Edit Clip Sound For",
             "localizedDescription": "Mute Video – Edit Clip Sound For - scheda generata automaticamente da tututweak.",
             "version": "1.1.302",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/mute-video-edit-clip-sound/Mute-Video-Edit-Clip-Sound-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/mute-video-edit-clip-sound/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Mute-Video-8211-Edit-Clip-Sound-IPA-v1.1.298-For-iOS.jpg",
             "size": 22,
-            "directDownload": true,
-            "directDownloadSourceName": "Mute Video – Edit Clip Sound For"
+            "directDownload": false
         },
         {
             "name": "MeloNX",
@@ -907,12 +910,11 @@
             "subtitle": "MeloNX",
             "localizedDescription": "MeloNX - scheda generata automaticamente da tututweak.",
             "version": "2.3.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/melonx-1-7-0/MeloNX-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/melonx-1-7-0/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/MeloNX.png",
             "size": 50,
-            "directDownload": true,
-            "directDownloadSourceName": "MeloNX"
+            "directDownload": false
         },
         {
             "name": "Luminar Mobile Photo Editor",
@@ -921,12 +923,11 @@
             "subtitle": "Luminar Mobile Photo Editor",
             "localizedDescription": "Luminar Mobile Photo Editor - scheda generata automaticamente da tututweak.",
             "version": "4.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Luminar%20Mobile/Luminar_Image_Editor%26Enhancer_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/luminar-mobile-photo-editor-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Luminar-Mobile-Photo-Editor.webp",
             "size": 453,
-            "directDownload": true,
-            "directDownloadSourceName": "Luminar Mobile Photo Editor"
+            "directDownload": false
         },
         {
             "name": "Radarbot Speed Cameras – GPS",
@@ -935,12 +936,11 @@
             "subtitle": "Radarbot Speed Cameras – GPS",
             "localizedDescription": "Radarbot Speed Cameras – GPS - scheda generata automaticamente da tututweak.",
             "version": "9.43",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Radarbot-Speed/Radarbot_Speed_Cameras_GPS_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/radarbot-speed-camera-detector-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Radarbot.jpg",
             "size": 221,
-            "directDownload": true,
-            "directDownloadSourceName": "Radarbot Speed Cameras – GPS"
+            "directDownload": false
         },
         {
             "name": "CollaNote",
@@ -949,12 +949,11 @@
             "subtitle": "CollaNote",
             "localizedDescription": "CollaNote - scheda generata automaticamente da tututweak.",
             "version": "4.1.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/CollaNote/CollaNote_Notes_%26_PDF_Markup_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/collanote/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/CollaNote.jpg",
             "size": 125,
-            "directDownload": true,
-            "directDownloadSourceName": "CollaNote"
+            "directDownload": false
         },
         {
             "name": "Noteshelf",
@@ -963,12 +962,11 @@
             "subtitle": "Noteshelf",
             "localizedDescription": "Noteshelf - scheda generata automaticamente da tututweak.",
             "version": "7.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Noteshelf/Noteshelf-3-Premium-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/noteshelf-3-digital-notes/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/noteshelf-3-digital-notes-ipa-v6-7-1-unlocked-ios-appstore-icon.jpg",
             "size": 200,
-            "directDownload": true,
-            "directDownloadSourceName": "Noteshelf 3 Digital Notes"
+            "directDownload": false
         },
         {
             "name": "Voloco: Vocal Recording Studio For",
@@ -977,12 +975,11 @@
             "subtitle": "Voloco: Vocal Recording Studio For",
             "localizedDescription": "Voloco: Vocal Recording Studio For - scheda generata automaticamente da tututweak.",
             "version": "9.16.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/voloco-vocal-recording-studio/Voloco-Vocal-Recording-Studio-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/voloco-vocal-recording-studio/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Voloco-Vocal-Recording-Studio-IPA-v9.14.2-For-iOS.jpg",
             "size": 215,
-            "directDownload": true,
-            "directDownloadSourceName": "Voloco: Vocal Recording Studio For"
+            "directDownload": false
         },
         {
             "name": "Lake: Coloring Book for Adults",
@@ -991,12 +988,11 @@
             "subtitle": "Lake: Coloring Book for Adults",
             "localizedDescription": "Lake: Coloring Book for Adults - scheda generata automaticamente da tututweak.",
             "version": "4.26.2",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Lake-Coloring/Lake_Coloring_Book_for_Adults_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/lake-coloring-book-for-adults/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Lake-Coloring-Book-for-Adults.jpg",
             "size": 159,
-            "directDownload": true,
-            "directDownloadSourceName": "Lake: Coloring Book for Adults"
+            "directDownload": false
         },
         {
             "name": "Video Lite For",
@@ -1005,12 +1001,11 @@
             "subtitle": "Video Lite For",
             "localizedDescription": "Video Lite For - scheda generata automaticamente da tututweak.",
             "version": "6.23.000",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Video%20Lite/Video-Lite-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/video-lite/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Video-Lite.jpg",
             "size": 27,
-            "directDownload": true,
-            "directDownloadSourceName": "Video Lite For"
+            "directDownload": false
         },
         {
             "name": "SnoreLab Record Your Snoring",
@@ -1019,12 +1014,11 @@
             "subtitle": "SnoreLab Record Your Snoring",
             "localizedDescription": "SnoreLab Record Your Snoring - scheda generata automaticamente da tututweak.",
             "version": "6.3.8",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/SnoreLab%20Record/SnoreLab-Record-Your-Snoring-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/snorelab-record-your-snoring/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/2024-10-03-2.02.42-AM.jpg",
             "size": 146,
-            "directDownload": true,
-            "directDownloadSourceName": "SnoreLab Record Your Snoring"
+            "directDownload": false
         },
         {
             "name": "ChatGPT",
@@ -1033,12 +1027,11 @@
             "subtitle": "ChatGPT",
             "localizedDescription": "ChatGPT - scheda generata automaticamente da tututweak.",
             "version": "1.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/ipa/ChatGPT-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/chatgpt/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/ChatGPT.jpg",
             "size": 81,
-            "directDownload": true,
-            "directDownloadSourceName": "ChatGPT 1.0 For"
+            "directDownload": false
         },
         {
             "name": "Alight Motion",
@@ -1047,12 +1040,11 @@
             "subtitle": "Alight Motion",
             "localizedDescription": "Alight Motion - scheda generata automaticamente da tututweak.",
             "version": "6.2.53",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Alight-Motion/Alight-Motion-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/alight-motion/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Alight-Motion.jpg",
             "size": 114,
-            "directDownload": true,
-            "directDownloadSourceName": "Alight Motion"
+            "directDownload": false
         },
         {
             "name": "Filza",
@@ -1061,12 +1053,11 @@
             "subtitle": "Filza",
             "localizedDescription": "Filza - scheda generata automaticamente da tututweak.",
             "version": "FilzaJailed 2.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/filza-file-manager-ipa/FilzaJailed.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/filza-file-manager-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/filza-1.jpg",
             "size": 14,
-            "directDownload": true,
-            "directDownloadSourceName": "Filza 15 – 26.1 No Jailbreak iPhone"
+            "directDownload": false
         },
         {
             "name": "Lightroom",
@@ -1075,12 +1066,11 @@
             "subtitle": "Lightroom",
             "localizedDescription": "Lightroom - scheda generata automaticamente da tututweak.",
             "version": "11.4",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Lightroom/Lightroom_AI_Photo_Editor_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/lightroom-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Lightroom.jpg",
             "size": 172,
-            "directDownload": true,
-            "directDownloadSourceName": "Lightroom"
+            "directDownload": false
         },
         {
             "name": "Snapchat",
@@ -1089,12 +1079,11 @@
             "subtitle": "Snapchat",
             "localizedDescription": "Snapchat - scheda generata automaticamente da tututweak.",
             "version": "13.76.1",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Snapchat/Snapchat-Root-2.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/snapchat-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/snapchat-ipa-sniperlite-plus-scfalcon-ios-appstore-icon.jpg",
             "size": 196,
-            "directDownload": true,
-            "directDownloadSourceName": "Snapchat"
+            "directDownload": false
         },
         {
             "name": "Netflix For",
@@ -1103,12 +1092,11 @@
             "subtitle": "Netflix For",
             "localizedDescription": "Netflix For - scheda generata automaticamente da tututweak.",
             "version": "3.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Netflix/Netflix-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/netflix/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/netflix-ipa-v25-3-2-premium-all-unlocked-for-ios-appstore-icon.jpg",
             "size": 34,
-            "directDownload": true,
-            "directDownloadSourceName": "Netflix For"
+            "directDownload": false
         },
         {
             "name": "CapCut PRO",
@@ -1117,12 +1105,11 @@
             "subtitle": "CapCut PRO",
             "localizedDescription": "CapCut PRO - scheda generata automaticamente da tututweak.",
             "version": "12.6.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/capcut-ipa/CapCut.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/capcut-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/CapCut-PRO-ipa.png",
             "size": 222,
-            "directDownload": true,
-            "directDownloadSourceName": "CapCut PRO"
+            "directDownload": false
         },
         {
             "name": "YouTube Premium",
@@ -1131,12 +1118,11 @@
             "subtitle": "YouTube Premium",
             "localizedDescription": "YouTube Premium - scheda generata automaticamente da tututweak.",
             "version": "21.15.5",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/YouTube/YouTube-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/youtube-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/2024-09-05-5.24.18-PM.jpg",
             "size": 124,
-            "directDownload": true,
-            "directDownloadSourceName": "YouTube Premium"
+            "directDownload": false
         },
         {
             "name": "Spotify",
@@ -1145,12 +1131,11 @@
             "subtitle": "Spotify",
             "localizedDescription": "Spotify - scheda generata automaticamente da tututweak.",
             "version": "9.1.28",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Spotify/Spotify-2-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/spotify-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/spotify-IPA.jpg",
             "size": 104,
-            "directDownload": true,
-            "directDownloadSourceName": "Spotify"
+            "directDownload": false
         },
         {
             "name": "TikTok",
@@ -1159,12 +1144,11 @@
             "subtitle": "TikTok",
             "localizedDescription": "TikTok - scheda generata automaticamente da tututweak.",
             "version": "45.7.0",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/TikTok/TikTok_Videos_Shop_%26_LIVE_BHTikTok-IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/tiktok-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/TIKTOK.jpg",
             "size": 377,
-            "directDownload": true,
-            "directDownloadSourceName": "TikTok"
+            "directDownload": false
         },
         {
             "name": "File Converter (Premium Unlocked) IOS",
@@ -1173,12 +1157,11 @@
             "subtitle": "File Converter (Premium Unlocked) IOS",
             "localizedDescription": "File Converter (Premium Unlocked) IOS - scheda generata automaticamente da tututweak.",
             "version": "24.2.4",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/file-converter-ipa/FileConverterPro.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/file-converter-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/file-converter-1.png",
             "size": 29,
-            "directDownload": true,
-            "directDownloadSourceName": "File Converter"
+            "directDownload": false
         },
         {
             "name": "Toca Boca World",
@@ -1187,12 +1170,11 @@
             "subtitle": "Toca Boca World",
             "localizedDescription": "Toca Boca World - scheda generata automaticamente da tututweak.",
             "version": "Many users choose the IPA version because it allows installation flexibility on iOS devices.",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/toca-boca-world/Toca-Boca-World-IPAOMTK.COM.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/toca-boca-world/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Toca-Boca-World.jpg",
             "size": 707,
-            "directDownload": true,
-            "directDownloadSourceName": "Toca Boca World"
+            "directDownload": false
         },
         {
             "name": "Facetune",
@@ -1201,12 +1183,11 @@
             "subtitle": "Facetune",
             "localizedDescription": "Facetune - scheda generata automaticamente da tututweak.",
             "version": "26.17",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Facetune/Facetune_Photo_%26_Video_Editor_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/facetune-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Facetune.jpg",
             "size": 313,
-            "directDownload": true,
-            "directDownloadSourceName": "Facetune"
+            "directDownload": false
         },
         {
             "name": "Photoshop Express",
@@ -1215,12 +1196,11 @@
             "subtitle": "Photoshop Express",
             "localizedDescription": "Photoshop Express - scheda generata automaticamente da tututweak.",
             "version": "and Final Impressions",
-            "versionDate": "2026-06-26",
-            "downloadURL": "https://file.ipaomtk.com/Photoshop/Photoshop_Express_Photo_Editor_IPAOMTK.com.ipa",
+            "versionDate": "2026-06-27",
+            "downloadURL": "https://tututweak.com/photoshop-express-ipa/",
             "iconURL": "https://tututweak.com/wp-content/uploads/2026/05/Photoshop-Express.jpg",
             "size": 148,
-            "directDownload": true,
-            "directDownloadSourceName": "Photoshop Express"
+            "directDownload": false
         }
     ]
 }
